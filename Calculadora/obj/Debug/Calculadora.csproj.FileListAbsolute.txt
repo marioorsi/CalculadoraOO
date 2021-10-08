@@ -1,0 +1,14 @@
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MAORSI\source\repos\CalculadoraCorrecao\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\MAORSI\Source\Repos\CalculadoraOO\Calculadora\obj\Debug\Calculadora.pdb
